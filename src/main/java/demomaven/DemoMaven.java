@@ -4,6 +4,7 @@ public class DemoMaven {
 
 	public static void main(String[] args) {
 		int k;
+		int y;
 	}
 	
 	public boolean unusedMethod(boolean k) {
